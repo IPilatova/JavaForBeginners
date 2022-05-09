@@ -121,9 +121,5 @@ public class Lesson10 {
 
         String str5 = str4.toUpperCase();
         System.out.println(str4.compareToIgnoreCase(str5));
-
-
-
-
     }
 }
