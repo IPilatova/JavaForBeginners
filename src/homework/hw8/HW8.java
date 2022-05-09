@@ -174,10 +174,6 @@ public class HW8 {
         return resultArr;
     }
 
-
-
-
-
     public static void main(String[] args) {
 
         part(1);
